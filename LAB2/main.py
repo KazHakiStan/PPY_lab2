@@ -34,7 +34,7 @@ input_numbers = input("Enter a series of space-separated integers: ")
 numbers_list = list(input_numbers.split(" "))
 
 # Sorting:
-
+numbers_list.sort()
 
 # Print Output
 print("Sorted list:", numbers_list)
@@ -74,7 +74,7 @@ Extend the previous Python program to include tuples. Now, in addition to creati
 input_numbers = input("Enter a series of space-separated integers: ")
 
 # Convert Input:
-
+numbers_list = list(input_numbers.split(" "))
 
 # Sorting:
 
