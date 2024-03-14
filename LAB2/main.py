@@ -671,3 +671,123 @@ except ValueError:
 """10.
 In the final main.py file, leave the results from task 8 and 9, commit and push
 """
+
+""" Results of task 8
+Enter a series of space-separated integers: >? 5 2 8 1 9
+Tuples are immutable and cannot be modified.
+Original Dictionary: {'5': 25, '2': 4, '8': 64, '1': 1, '9': 81}
+Enter your student number: >? s28422
+Content of the file:
+Student Number: s28422
+Original List: ['5', '2', 20, '1', '9', 10]
+Original Tuple: ('5', '2', '8', '1', '9')
+Original Set: {'5', '8', '9', '2', '1'}
+Original Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+Manipulated List: ['5', '2', 20, '1', '9', 10]
+Manipulated Tuple: ('5', '2', '8', '1', '9')
+Union of Set: {'9', '3', '5', '8', '2', '4', '1'}
+Intersection of Set: {'2'}
+Difference of Set: {'5', '8', '9', '3', '4', '1'}
+Updated Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+List to Tuple: ('5', '2', 20, '1', '9', 10)
+List to Set: [1, 2, 5, 9, 10, 20]
+List to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to List: ['5', '2', '8', '1', '9']
+Tuple to Set: [1, 2, 5, 8, 9]
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to List: ['1', '2', '5', '8', '9']
+Set to Tuple: ('1', '2', '5', '8', '9')
+Set to Dictionary: {1: 1, 2: 4, 5: 25, 8: 64, 9: 81}
+Dictionary to List: ['5', '2', '1', '9', '11']
+Dictionary to Tuple: ('5', '2', '1', '9', '11')
+Dictionary to Set: [1, 2, 5, 9, 11]
+Number of lines in the file:  23
+Number of integers in the file: 180
+Sum of all integers in the file: 640
+Student Number: s28422
+Original LIST: ['5', '2', 20, '1', '9', 10]
+Original Tuple: ('5', '2', '8', '1', '9')
+Original Set: {'5', '8', '9', '2', '1'}
+Original Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+Manipulated LIST: ['5', '2', 20, '1', '9', 10]
+Manipulated Tuple: ('5', '2', '8', '1', '9')
+Union of Set: {'9', '3', '5', '8', '2', '4', '1'}
+Intersection of Set: {'2'}
+Difference of Set: {'5', '8', '9', '3', '4', '1'}
+Updated Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+LIST to Tuple: ('5', '2', 20, '1', '9', 10)
+LIST to Set: [1, 2, 5, 9, 10, 20]
+LIST to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to LIST: ['5', '2', '8', '1', '9']
+Tuple to Set: [1, 2, 5, 8, 9]
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to LIST: ['1', '2', '5', '8', '9']
+Set to Tuple: ('1', '2', '5', '8', '9')
+Set to Dictionary: {1: 1, 2: 4, 5: 25, 8: 64, 9: 81}
+Dictionary to LIST: ['5', '2', '1', '9', '11']
+Dictionary to Tuple: ('5', '2', '1', '9', '11')
+Dictionary to Set: [1, 2, 5, 9, 11]
+"""
+
+"""Results of task 9
+Enter a series of space-separated integers: >? 5 2 8 1 9
+Tuples are immutable and cannot be modified.
+Original Dictionary: {'5': 25, '2': 4, '8': 64, '1': 1, '9': 81}
+Enter your student number: >? s28422
+Content of the file:
+Student Number: s28422
+Original List: ['5', '2', 20, '1', '9', 10]
+Original Tuple: ('5', '2', '8', '1', '9')
+Original Set: {'5', '8', '9', '2', '1'}
+Original Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+Manipulated List: ['5', '2', 20, '1', '9', 10]
+Manipulated Tuple: ('5', '2', '8', '1', '9')
+Union of Set: {'9', '3', '5', '8', '2', '4', '1'}
+Intersection of Set: {'2'}
+Difference of Set: {'5', '8', '9', '3', '4', '1'}
+Updated Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+List to Tuple: ('5', '2', 20, '1', '9', 10)
+List to Set: [1, 2, 5, 9, 10, 20]
+List to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to List: ['5', '2', '8', '1', '9']
+Tuple to Set: [1, 2, 5, 8, 9]
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to List: ['1', '2', '5', '8', '9']
+Set to Tuple: ('1', '2', '5', '8', '9')
+Set to Dictionary: {1: 1, 2: 4, 5: 25, 8: 64, 9: 81}
+Dictionary to List: ['5', '2', '1', '9', '11']
+Dictionary to Tuple: ('5', '2', '1', '9', '11')
+Dictionary to Set: [1, 2, 5, 9, 11]
+Number of lines in the file:  23
+Number of integers in the file: 180
+Sum of all integers in the file: 640
+Student Number: s28422
+Original LIST: ['5', '2', 20, '1', '9', 10]
+Original Tuple: ('5', '2', '8', '1', '9')
+Original Set: {'5', '8', '9', '2', '1'}
+Original Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+Manipulated LIST: ['5', '2', 20, '1', '9', 10]
+Manipulated Tuple: ('5', '2', '8', '1', '9')
+Union of Set: {'9', '3', '5', '8', '2', '4', '1'}
+Intersection of Set: {'2'}
+Difference of Set: {'5', '8', '9', '3', '4', '1'}
+Updated Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+LIST to Tuple: ('5', '2', 20, '1', '9', 10)
+LIST to Set: [1, 2, 5, 9, 10, 20]
+LIST to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to LIST: ['5', '2', '8', '1', '9']
+Tuple to Set: [1, 2, 5, 8, 9]
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to LIST: ['1', '2', '5', '8', '9']
+Set to Tuple: ('1', '2', '5', '8', '9')
+Set to Dictionary: {1: 1, 2: 4, 5: 25, 8: 64, 9: 81}
+Dictionary to LIST: ['5', '2', '1', '9', '11']
+Dictionary to Tuple: ('5', '2', '1', '9', '11')
+Dictionary to Set: [1, 2, 5, 9, 11]
+Largest integer in the file: 9
+List of Prime Numbers: [2, 3, 5, 7]
+Sum of Prime Numbers: 17
+Largest Prime Number: 7
+Smallest Prime Number: 2
+Is the Largest Integer Prime? False
+"""
