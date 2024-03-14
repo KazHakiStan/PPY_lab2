@@ -1,0 +1,23 @@
+Student Number: s28422
+Original LIST: ['5', '2', 20, '1', '9', 10]
+Original Tuple: ('5', '2', '8', '1', '9')
+Original Set: {'5', '8', '9', '2', '1'}
+Original Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+Manipulated LIST: ['5', '2', 20, '1', '9', 10]
+Manipulated Tuple: ('5', '2', '8', '1', '9')
+Union of Set: {'9', '3', '5', '8', '2', '4', '1'}
+Intersection of Set: {'2'}
+Difference of Set: {'5', '8', '9', '3', '4', '1'}
+Updated Dictionary: {'5': 25, '2': 4, '1': 1, '9': 81, '11': 121}
+LIST to Tuple: ('5', '2', 20, '1', '9', 10)
+LIST to Set: [1, 2, 5, 9, 10, 20]
+LIST to Dictionary: {5: 25, 2: 4, 20: 400, 1: 1, 9: 81, 10: 100}
+Tuple to LIST: ['5', '2', '8', '1', '9']
+Tuple to Set: [1, 2, 5, 8, 9]
+Tuple to Dictionary: {5: 25, 2: 4, 8: 64, 1: 1, 9: 81}
+Set to LIST: ['1', '2', '5', '8', '9']
+Set to Tuple: ('1', '2', '5', '8', '9')
+Set to Dictionary: {1: 1, 2: 4, 5: 25, 8: 64, 9: 81}
+Dictionary to LIST: ['5', '2', '1', '9', '11']
+Dictionary to Tuple: ('5', '2', '1', '9', '11')
+Dictionary to Set: [1, 2, 5, 9, 11]

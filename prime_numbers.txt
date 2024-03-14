@@ -1,0 +1,6 @@
+List of Prime Numbers:
+[2, 3, 5, 7]
+Sum of Prime Numbers: 17
+Largest Prime Number: 7
+Smallest Prime Number: 2
+Is the Largest Integer Prime? False
